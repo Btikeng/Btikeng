@@ -1,9 +1,9 @@
 *****
 *****
-> # 👤 Ryan Zernach
-> # ✉️ Ryan@Zernach.com
-> # 🤖 Data Scientist & Mobile App Developer
-> # 🇺🇸 Remote, Miami Beach, Florida, United States
+> # 👤 Bodelin Tikeng
+> # ✉️ tikengromual@gmail.com
+> # 🤖 Data Scientist 
+> # 🇺🇸 Remote, United States
 *****
 *****
 # TECH STACK
