@@ -3,7 +3,7 @@
 > # 👤 Bodelin Tikeng
 > # ✉️ tikengromual@gmail.com
 > # 🤖 Data Scientist 
-> # 🇺🇸 Remote, United States
+> # us Remote, United States
 *****
 *****
 # TECH STACK
@@ -101,7 +101,7 @@
     Oversaw market prices analyzing.
     Executed accounts receivable and accounts payables
 
-> 
+
 > * Entrepreneur Minset
 > * Ability to understand any type of Business
 > * Desire to Never Stop Learning
@@ -114,4 +114,6 @@
 > * Critical Thinking Skills
 > * Capacity to Research
 > * Task Management
+> **LANGUAGES:**
+> French and English
 
