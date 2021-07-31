@@ -11,32 +11,13 @@
 *****
 > ### Quickly Learns New Tools & Techniques
 > 
-> * Scikit-Learn / Machine Learning Engineering
-> * Natural Language Processing / Spacy
-> * AWS Certified Cloud Practitioner
-> * Python Programming Language
-> * AWS Elastic Beanstalk / Heroku
-> * Pipenv / Virtual Environments
-> * Tensorflow Developer / Keras
-> * Plotly / Seaborn / MatPlotLib
-> * SQL / PostgreSQL / NoSQL
-> * Non-Relational MongoDB
-> * Amazon RDS / TablePlus
+> * Certified Excel user from Microsoft 
+> Python Programming Language
+> * SQL / PostgreSQL /  Relational
 > * Command Line Terminal
-> * Docker Containerization
-> * Flask / FastAPI
-> * Github Workflow
 > * Pandas & Numpy
-> * Big Data Analytics
 > * Tableau / Power BI
-> * Dash Core Components
-> * Django Web Development
-> * Extract Transform Load (ETL)
-> * Data Lakes / Data Warehouses
-> * Figma Designing & Prototyping
 > * Microsoft Office & Google Cloud Suite
-> * Software Development Life Cycle (SDLC)
- 
  
 *****
 *****
@@ -46,96 +27,88 @@
 
 ### Links to Additional Details in Project Titles
 
-> ### [ADP Gym Mobile iOS/Android App](https://ryan.zernach.com/client-customer-management-manager-organizer-mobile-iphone-ios-android-app-tool-for-gym-trainers-training-club/) — Used for Gym Trainers to to Track their Member’s Sessions/Payments
-> * Listened to client, and then designed and developed the cloud infrastructure for this project
-> * Designed and developed this Typescript React Native Expo mobile app in nine weeks (part-time)
-> * Custom-built a companion Python Flask web app for gym members to securely pay their trainers
+> ### [Kickstarter](https://github.com/Btikeng/EXCEL-CHALLENGE.git) 
+> — Using the Excel table provided, modify and analyze the data of 4,000 past Kickstarter projects as you attempt to uncover some market trends.
+> * Use conditional formatting to fill each cell in the state column with a different color, depending on whether the associated campaign was successful, failed, or canceled, or is currently live.
+> * Use conditional formatting to fill each cell in the Percent Funded column using a three-color scale. The scale should start at 0 and be a dark shade of red, transitioning to green at 100, and blue at 200.
+> * Create a new sheet with a pivot table that will analyze your initial worksheet to count how many campaigns were successful, failed, canceled, or are currently live per category.
+> * Create a stacked column pivot chart that can be filtered by country based on the table you have created.
+>
+> ### [Python_project](https://github.com/Btikeng/Python_challenge.git)
 > 
-> ### [Better Reads](https://ryan.zernach.com/portfolio/readrr-a-platform-to-discover-track-and-share-new-books/) — A Platform for Readers to Track, Share, & Discover New Books
+> * created a Python script for analyzing the financial records of your company.
+> * gave a set of financial data called budget_data.csv.
 > 
-> * Used Agile & Scrum methodologies to iteratively deploy Natural Language Processing (NLP) models
-> * Practiced CI/CD via blue/green RESTful Flask microservices on AWS EB to facilitate JSON post requests
-> * Launched and managed a PostgreSQL instance on AWS RDS to store millions of GoogleBooks data
+> ### [SQL Data Analysis](https://github.com/Btikeng/sql-challenge.git) 
 > 
-> ### [Flight Prices](https://ryan.zernach.com/portfolio/airline-price-predictor-how-are-flight-prices-calculated/) — Airline Pricing Analysis & Interactive Pricing User-Interface
+> * created a table schema for each of the six CSV files
+> * Imported each CSV file into the corresponding SQL table.
+> * List the following details of each employee: employee number, last name, first name, sex, and salary.
 > 
-> * Built front-end user interface with Flask for user to interact w/ a predictive machine learning model
-> * Tediously gathered 27M rows of data, wrangled/cleaned to 9M, uploaded data to Kaggle
-> * As a data analyst, I generated statistical analyses, distribution charts, and business intelligence insights
+> ### [JavaScrip](https://github.com/Btikeng/javascript-challenge.git) 
 > 
-> ### [Brain Power](https://ryan.zernach.com/portfolio/brainpower-the-future-of-communicating-with-technology/) — Using Machine Learning & an EEG Device to Control Technology
+> * Created a basic HTML web page or use the index.html file provided
+> * Used the UFO dataset provided in the form of an array of JavaScript objects, write code that appends a table to your web page and then adds new rows of data for each UFO sighting.
+> * Use a date form in your HTML document and write JavaScript code that will listen for events and search through the date/time column to find rows that match user input.
+>
 > 
-> * Built an application for the user to control light switches & thermostats with their brain
-> * Collected data from an EEG device and used Scikit-Learn to train a predictive model
-> * Deployed back-end Python get request API w/ Flask: communicate w/ EEG device, detect brain patterns
+> ### [Interactif website/map](https://github.com/Btikeng/Chicago_crimes_project2.git) 
 > 
-> ### [Spotify Music](https://ryan.zernach.com/portfolio/spotify-song-suggester-which-songs-are-most-similar-to-your-favorites/) — Recommends New Music Based on Your Favorite Songs
-> 
-> * Connected with Spotify’s API to harvest data (and metadata) about the songs in their database
-> * Built back-end Python API’s (get and post requests) to return predicted songs data to front-end
-
+> * analyzed data to educate people about the different types of crimes that can occur in Chicago city, and be aware of them.
+> * Classified data as showing on the terminal: primary type, district, locationdescription, arrest, etc.
 *****
 *****
 # EDUCATION
 *****
 *****
 
-> ### Data Science Software Engineering, August 2019 – July 2020
-> #### Lambda School, Remote, San Francisco, CA
-> ●	**Data Engineering** — Completed a deep dive into Data Engineering, working with databases, back-end API's, big data, productization, and continuous integration & > deployment.
+> #### FINANCE AND BUSINESS ADMINISTRATION
 > 
-> ●	**Software Engineering** — Served as a data scientist on remote development teams via Slack, Zoom, Notion, and Trello alongside UX designers, web developers, and iOS developers to bring projects to fruition.
+> ●	**Bachelor Degree**  — University of Dschang, Cameroon 2014                  
+> Financial Accounting
+> Internal and External Audit
 > 
-> ●	**Machine Learning** — Gained hands-on experience by engaging with machine learning and being able to understand unsupervised learning, natural language processing, & neural networks.
-> 
-> ●	**Statistical Analysis** — Developed a solid foundation of analytical and predictive statistics, including linear algebra, linear regression, hypothesis testing, and storytelling with data.
-> 
-> ●	**Computer Science** — Learned first-hand about how various data structures (hash tables, graphs, BST’s, etc.) can optimize runtime complexity, classic algorithmic paradigms, and computer architecture.
-> 
-> ### Computer Science & Mathematics, August 2011 – December 2012
-> #### Georgia Southern University, Statesboro, GA
-> ●	Calculus I, Calculus II, Calculus III, Statistics, Data Structures, Programming Principles I, Programming Principles II, Discrete Mathematics, Ethics of Computers in Society
-> 
-
+> ●	**Associate Degree** — Business Administration School of Douala; Cameroon 2013
+> Accounting and Business Management
+> Business Law
+>
 *****
 *****
 # CERTIFICATIONS
 *****
 *****
-
-> * [DataRobot 10x Data Science AutoML](https://ryan.zernach.com/data-robot-10x-data-science-academy-certification-guide/), September-October 2020
-> * [TensorFlow Developer](https://ryan.zernach.com/tensorflow-developer-certification-study-guide/), July 2020 
-> * [AWS Cloud Practitioner](https://ryan.zernach.com/aws-certified-cloud-practitioner-study-guide/), June 2020
-
+ 
+>  ● **Data Engineer** — Graduated from Bootcamp Northwestern University; Chicago IL, 2021
+>  ● **Career Certified** — Workforce Developpment IL, 2021
+>  ● **Excel Data Analyst**  — From Microsoft 
+> 
 *****
 *****
 # EXPERIENCE
 *****
 *****
 
+> ● **CEO and Owner** of DISCOBEST LLC
+> Company founded in 2020, Warehouse Manufacturer of high healthy tea for internal body cleaning and Extra Strength.
+> Registered Brang: **Tea FITTER**  (Amazon best seller)
+> 
+>  ● **Finance Manager**  — Discobest LLC
+>
+>  ● **Accounting Analyst** —  Henkel Company, Lille de France May 2014-Oct 2016
+>   Performed Bank, and accounts reconciliation.
+>   Performed Journal entries, General ledger, year-end closing, and  financial statements.
+    Acted as direct assistant of payroll management.
+    Oversaw market prices analyzing.
+    Executed accounts receivable and accounts payables
 
-> ### ● [Trilogy Education](https://ryan.zernach.com/tutor/)
-> Data Science Tutor for University Students, Remote, September 2020 - Present
 > 
-> 
-> ### ● [Vanderbilt University](https://linkedin.com/in/zernach)
-> Teaching Assistant: Data Visualizations, Remote, September 2020 – March 2021
-> 
-> 
-> ### ● [instaSod.com](https://instasod.com), [CustomizedChristmasLights.com](https://customizedchristmaslights.com)
-> Small Business Owner (Self Employed), October 2015 – January 2019, 3 yrs 4 mos
-> * **Data Management** — automation, invoicing, client management, Google Analytics
-> * **Professional Sales** — Generated $450k+ gross sales over the course of three years
-> * **Designer** — websites, systems, processes, graphics, digital landscapes, sales proposals
-> * **Lessons Learned** — the experience of managing my own businesses has shaped my mindset:
-> 
-> * Customer/User/Client Centered Mindset
-> * Ability to Ask the Right Questions
+> * Entrepreneur Minset
+> * Ability to understand any type of Business
 > * Desire to Never Stop Learning
 > * Intuition to Set Goals/Plans
 > * Clarity of Communication
 > * Team-Building Aptitude
-> * Humility to Ask for Help
+> * Humility of Asking for Help
 > * Results-Driven Attitude
 > * Disciplined & Focused
 > * Critical Thinking Skills
