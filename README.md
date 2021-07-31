@@ -97,9 +97,9 @@
 >  ● **Accounting Analyst** —  Henkel Company, Lille de France May 2014-Oct 2016
 >   Performed Bank, and accounts reconciliation.
 >   Performed Journal entries, General ledger, year-end closing, and  financial statements.
-    Acted as direct assistant of payroll management.
-    Oversaw market prices analyzing.
-    Executed accounts receivable and accounts payables
+>    Acted as direct assistant of payroll management.
+>    Oversaw market prices analyzing.
+>    Executed accounts receivable and accounts payables
 
 
 > * Entrepreneur Minset
@@ -114,6 +114,8 @@
 > * Critical Thinking Skills
 > * Capacity to Research
 > * Task Management
+> 
+
 > **LANGUAGES:**
 > French and English
 
