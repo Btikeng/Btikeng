@@ -64,9 +64,9 @@
 
 > #### FINANCE AND BUSINESS ADMINISTRATION
 > 
-> ●	**Bachelor Degree**  — University of Dschang, Cameroon 2014                  
+> ●	**Bachelor Degree**  — University of Montpellier  2014                  
 > Financial Accounting
-> Internal and External Audit
+> Business Administration
 > 
 > ●	**Associate Degree** — Business Administration School of Douala; Cameroon 2013
 > Accounting and Business Management
@@ -78,7 +78,7 @@
 *****
 *****
  
->  ● **Data Engineer** — Graduated from Bootcamp Northwestern University; Chicago IL, 2021
+>  ● **Data Science** — Graduated Northwestern University; Chicago IL, 2021
 >  ● **Career Certified** — Workforce Developpment IL, 2021
 >  ● **Excel Data Analyst**  — From Microsoft 
 > 
@@ -88,9 +88,10 @@
 *****
 *****
 
+> ● **Data Analyst, Schaumburg Market Place** 2 years
 > ● **CEO and Owner** of DISCOBEST LLC
 > Company founded in 2020, Warehouse Manufacturer of high healthy tea for internal body cleaning and Extra Strength.
-> Registered Brang: **Tea FITTER**  (Amazon best seller)
+> Registered Brang: **Detox Tea FITTER premium quality**  (Amazon best seller)
 > 
 >  ● **Finance Manager**  — Discobest LLC
 >
