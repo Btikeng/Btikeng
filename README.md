@@ -64,7 +64,7 @@
 
 > #### FINANCE AND BUSINESS ADMINISTRATION
 > 
-> ●	**Bachelor Degree**  — University of Montpellier  2014                  
+> ●	**Bachelor Degree**  — University of Dschang  2014                  
 > Financial Accounting
 > Business Administration
 > 
@@ -88,33 +88,32 @@
 *****
 *****
 
-> ● **Data Analyst, Schaumburg Market Place** 2 years
-> ● **CEO and Owner** of DISCOBEST LLC
-> Company founded in 2020, Warehouse Manufacturer of high healthy tea for internal body cleaning and Extra Strength.
-> Registered Brang: **Detox Tea FITTER premium quality**  (Amazon best seller)
+> ● **Data Analyst**
+> **Data Analyst, Express Comfort Service**   Chicago, IL   May 2020 - Presnt.
+> **Duties:**
+  Extracted Data from various sources, Transform and load into Power BI datasets.
+  Created reports from scratch and built Visualization Dashboards.
+  Identified data trends and made recommendations for Business quality improvement.
+  Improved data mining process using Business intelligence tools saving 15% in time.
+  used analytical technics to develop forecasting and predict market trends.
+  Applied Analytical techniques to developpe dashboards, metrics and reports Business Intelligence technologies and methodologies to satisfy business objectives.
 > 
->  ● **Finance Manager**  — Discobest LLC
->
->  ● **Accounting Analyst** —  Henkel Company, Lille de France May 2014-Oct 2016
->   Performed Bank, and accounts reconciliation.
->   Performed Journal entries, General ledger, year-end closing, and  financial statements.
->    Acted as direct assistant of payroll management.
->    Oversaw market prices analyzing.
->    Executed accounts receivable and accounts payables
+>  ● **Assistant Controller** —  JP Morgan Chase, Chicago IL  Nov 2018 - March 2020.
 
-
-> * Entrepreneur Minset
-> * Ability to understand any type of Business
-> * Desire to Never Stop Learning
-> * Intuition to Set Goals/Plans
-> * Clarity of Communication
-> * Team-Building Aptitude
-> * Humility of Asking for Help
-> * Results-Driven Attitude
-> * Disciplined & Focused
-> * Critical Thinking Skills
-> * Capacity to Research
-> * Task Management
+  Overseeing the general accounting operations such as daily posting to general ledger.
+  Assisted in the account reconciliations process to identify discrepancies.
+  Operated bank reconciliations and corrected errors.
+  Maintained an efficient and effective financial position of the department while ensuring financial records are in accordance with generally accepted accounting principles.
+  Assisted in month-end closing to ensure that all transactions are completed in a timely manner.
+  
+  ● ** Financial Accounting ** -  METSYS  May 2015 - Oct 2018.
+  
+  Analyzed cash-flow, calculated ratio to predict profitable financial statement. ● Verified all journal entries, general ledgers, and prepared Balance sheet and income statement.
+  Managed Account payables / Receivables to ensure accuracy of operation department.
+  Implemented audit internal control to comply with GAP, that avoided loss of important assets.                                                                 Applied cost optimization techniques to reduce expenses and increase profit.
+  Evaluated, developed, and improved accounting processes and procedures for accuracy and efficiency of the organizations.
+   
+>   
 > 
 
 > **LANGUAGES:**
