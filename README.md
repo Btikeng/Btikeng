@@ -2,7 +2,7 @@
 *****
 > # 👤 Bodelin Tikeng
 > # ✉️ tikengromual@gmail.com
-> # 🤖 Data Scientist 
+> # 🤖 Data Analyst.
 > # us Remote, United States
 *****
 *****
