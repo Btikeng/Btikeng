@@ -1,6 +1,6 @@
 *****
 *****
-> # 👤 Bodelin Tikeng
+> # 👤 Ramcess Tikeng
 > # ✉️ tikengromual@gmail.com
 > # 🤖 Data Analyst.
 > # us Remote, United States
