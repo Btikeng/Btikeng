@@ -63,7 +63,10 @@
 *****
 
 > #### FINANCE AND BUSINESS ADMINISTRATION
-> 
+●	**MBA Student**  — Rasmussen University  2022                  
+> Finance Management and leadership
+> Business Administration
+
 > ●	**Bachelor Degree**  — University of Dschang  2014                  
 > Financial Accounting
 > Business Administration
@@ -89,7 +92,7 @@
 *****
 
 > ● **Data Analyst**
-> **Data Analyst, Express Comfort Service**   Chicago, IL   May 2020 - Presnt.
+> **Financial Analyst, ADDISON GROUP**   Chicago, IL   August 2022 - Presnt.
 > **Duties:**
   Extracted Data from various sources, Transform and load into Power BI datasets.
   Created reports from scratch and built Visualization Dashboards.
