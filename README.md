@@ -2,7 +2,7 @@
 *****
 > # 👤 Ramcess Tikeng
 > # ✉️ tikengromual@gmail.com
-> # 🤖 Data Analyst.
+> # 🤖 Database Admin / Analyst.
 > # us Remote, United States
 *****
 *****
