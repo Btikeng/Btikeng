@@ -2,7 +2,7 @@
 *****
 > # 👤 Ramcess Tikeng
 > # ✉️ tikengromual@gmail.com
-> # 🤖 Database Admin / Analyst.
+> # 🤖 Sr Data Analyst.
 > # us Remote, United States
 *****
 *****
@@ -11,13 +11,13 @@
 *****
 > ### Quickly Learns New Tools & Techniques
 > 
-> * Certified Excel user from Microsoft 
-> Python Programming Language
-> * SQL / PostgreSQL /  Relational
+> * Data Gathering and Transformation.
+> * Advanced Excel function, Macros, VBA.
+> * Python, AWS cloud
+> * SQL / PostgreSQL /  RDMS  
 > * Command Line Terminal
 > * Pandas & Numpy
-> * Tableau / Power BI
-> * Microsoft Office & Google Cloud Suite
+> * Ms Power BI and Tableau
  
 *****
 *****
